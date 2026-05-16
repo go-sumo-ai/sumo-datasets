@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="744" viewBox="0 0 920 744" role="img" aria-labelledby="title desc">
+<title id="title">Content distribution</title>
+<desc id="desc">Aggregate percentage distributions for call duration and transcript word-count buckets.</desc>
+<style>
+text{font-family:Inter,Arial,sans-serif;fill:#334155}
+.eyebrow{font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;fill:#64748b}
+.title{font-size:22px;font-weight:750;fill:#0f172a}
+.subtitle{font-size:13px;fill:#64748b}
+.section{font-size:15px;font-weight:750;fill:#1e293b}
+.label{font-size:13px;fill:#334155}
+.pct{font-size:13px;font-weight:700;fill:#0f172a}
+.track{fill:#e2e8f0}
+.bar{fill:#2563eb}
+.bar2{fill:#38bdf8}
+.rule{stroke:#e2e8f0;stroke-width:1}
+</style>
+<rect width="100%" height="100%" rx="18" fill="#f8fafc"/>
+<rect x="1" y="1" width="918" height="742" rx="18" fill="none" stroke="#e2e8f0"/>
+<text class="eyebrow" x="34" y="36">Distribution overview</text>
+<text class="title" x="34" y="62">Share of calls by bucket</text>
+<text class="subtitle" x="34" y="84">Percent labels are computed from the dataset rows in this repository.</text>
+<text class="section" x="34" y="124">Duration</text>
+<line class="rule" x1="34" y1="139" x2="890" y2="139"/>
+<text class="label" x="50" y="158">0-5m</text>
+<rect class="track" x="170" y="146" width="550" height="14" rx="7"/>
+<rect class="bar" x="170" y="146" width="349" height="14" rx="7"/>
+<text class="pct" x="755" y="158">24.2%</text>
+<text class="label" x="50" y="188">5-10m</text>
+<rect class="track" x="170" y="176" width="550" height="14" rx="7"/>
+<rect class="bar2" x="170" y="176" width="550" height="14" rx="7"/>
+<text class="pct" x="755" y="188">38.1%</text>
+<text class="label" x="50" y="218">10-20m</text>
+<rect class="track" x="170" y="206" width="550" height="14" rx="7"/>
+<rect class="bar" x="170" y="206" width="227" height="14" rx="7"/>
+<text class="pct" x="755" y="218">15.7%</text>
+<text class="label" x="50" y="248">20-30m</text>
+<rect class="track" x="170" y="236" width="550" height="14" rx="7"/>
+<rect class="bar2" x="170" y="236" width="57" height="14" rx="7"/>
+<text class="pct" x="755" y="248">3.9%</text>
+<text class="label" x="50" y="278">30-45m</text>
+<rect class="track" x="170" y="266" width="550" height="14" rx="7"/>
+<rect class="bar" x="170" y="266" width="39" height="14" rx="7"/>
+<text class="pct" x="755" y="278">2.7%</text>
+<text class="label" x="50" y="308">45-60m</text>
+<rect class="track" x="170" y="296" width="550" height="14" rx="7"/>
+<rect class="bar2" x="170" y="296" width="57" height="14" rx="7"/>
+<text class="pct" x="755" y="308">3.9%</text>
+<text class="label" x="50" y="338">60-90m</text>
+<rect class="track" x="170" y="326" width="550" height="14" rx="7"/>
+<rect class="bar" x="170" y="326" width="145" height="14" rx="7"/>
+<text class="pct" x="755" y="338">10.0%</text>
+<text class="label" x="50" y="368">90m+</text>
+<rect class="track" x="170" y="356" width="550" height="14" rx="7"/>
+<rect class="bar2" x="170" y="356" width="21" height="14" rx="7"/>
+<text class="pct" x="755" y="368">1.4%</text>
+<text class="section" x="34" y="432">Transcript words</text>
+<line class="rule" x1="34" y1="447" x2="890" y2="447"/>
+<text class="label" x="50" y="466">&lt;500</text>
+<rect class="track" x="170" y="454" width="550" height="14" rx="7"/>
+<rect class="bar" x="170" y="454" width="201" height="14" rx="7"/>
+<text class="pct" x="755" y="466">12.0%</text>
+<text class="label" x="50" y="496">500-1k</text>
+<rect class="track" x="170" y="484" width="550" height="14" rx="7"/>
+<rect class="bar2" x="170" y="484" width="349" height="14" rx="7"/>
+<text class="pct" x="755" y="496">20.8%</text>
+<text class="label" x="50" y="526">1k-2k</text>
+<rect class="track" x="170" y="514" width="550" height="14" rx="7"/>
+<rect class="bar" x="170" y="514" width="550" height="14" rx="7"/>
+<text class="pct" x="755" y="526">32.7%</text>
+<text class="label" x="50" y="556">2k-4k</text>
+<rect class="track" x="170" y="544" width="550" height="14" rx="7"/>
+<rect class="bar2" x="170" y="544" width="246" height="14" rx="7"/>
+<text class="pct" x="755" y="556">14.7%</text>
+<text class="label" x="50" y="586">4k-8k</text>
+<rect class="track" x="170" y="574" width="550" height="14" rx="7"/>
+<rect class="bar" x="170" y="574" width="81" height="14" rx="7"/>
+<text class="pct" x="755" y="586">4.8%</text>
+<text class="label" x="50" y="616">8k-12k</text>
+<rect class="track" x="170" y="604" width="550" height="14" rx="7"/>
+<rect class="bar2" x="170" y="604" width="165" height="14" rx="7"/>
+<text class="pct" x="755" y="616">9.8%</text>
+<text class="label" x="50" y="646">12k+</text>
+<rect class="track" x="170" y="634" width="550" height="14" rx="7"/>
+<rect class="bar" x="170" y="634" width="87" height="14" rx="7"/>
+<text class="pct" x="755" y="646">5.2%</text>
+</svg>

@@ -1,0 +1,29 @@
+Sumo AI Commercial Dataset License
+
+Copyright (c) 2026 Sumo AI and/or its licensors.
+
+This dataset is proprietary, confidential, and provided only to authorized
+users, approved customers, and approved organizations under an applicable
+written agreement, order form, statement of work, or other written approval by
+Sumo AI.
+
+Subject to that applicable agreement, Sumo AI grants authorized users a limited,
+non-exclusive, non-transferable, non-sublicensable license to access, download,
+copy, and use the dataset solely for approved business, commercial,
+evaluation, development, annotation, analytics, model evaluation, and model
+training or fine-tuning purposes.
+
+No rights are granted to publish, redistribute, resell, sublicense, disclose, or
+make the dataset available to any third party except as expressly permitted in
+the applicable agreement. The dataset may not be used to train, fine-tune, or
+improve a public, generally available, or third-party foundation model unless
+the applicable agreement expressly allows that use.
+
+The dataset may contain sensitive or regulated information despite redaction.
+Users must not attempt to re-identify individuals, reverse redactions, extract
+personal information, or combine the dataset with other data for re-identification.
+Access must be controlled according to Sumo AI policies, the applicable
+agreement, and all applicable laws, regulations, confidentiality obligations,
+and data protection requirements.
+
+All rights not expressly granted are reserved by Sumo AI and/or its licensors.
